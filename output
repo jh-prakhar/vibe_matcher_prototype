@@ -1,0 +1,24 @@
+Built embeddings for 8 products in 0.004s. Embedding shape: (8, 256)
+
+Query: energetic urban chic
+             name             score
+1    Denim Jacket          0.754
+7    Statement Blazer      0.612
+5    Street Sneaks         0.502
+Latency: 0.0123s
+
+Query: cozy autumn outfit
+             name             score
+4    Corduroy Pants        0.693
+2    Athleisure Set        0.511
+6    Linen Shirt           0.483
+Latency: 0.0108s
+
+Query: minimalist evening elegance
+             name             score
+3    Silk Slip            0.740
+7    Statement Blazer     0.553
+1    Boho Dress           0.392
+Latency: 0.0112s
+
+Good queries (top_score > 0.35): 3/3
