@@ -52,4 +52,4 @@ Key learnings and improvements:
 
 Why AI at Nexora? - I’m drawn to AI at Nexora because of its focus on solving real-world problems through intelligent automation and data-driven insights. I’m particularly excited by the intersection of retrieval systems and sustainability — areas where thoughtful model design can reduce inefficiencies and create measurable social impact. Building the “Vibe Matcher” prototype reinforced my belief that good AI balances creativity with rigor, and Nexora’s culture of experimentation and applied learning aligns perfectly with that philosophy.
 
-A mini project in collaboration with AI Nexora. Concept is
+A mini project in collaboration with AI Nexora.
